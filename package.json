@@ -13,12 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/learn-co-curriculum/javascript-objects.git"
   },
-  "keywords": [
-    "javascript",
-    "objects",
-    "flatiron",
-    "learn"
-  ],
+  "keywords": ["javascript", "objects", "flatiron", "learn"],
   "author": "",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
